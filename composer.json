@@ -5,9 +5,6 @@
     "require": {
         "php": ">=5.6.0"
     },
-		"require": {
-				"godcms/think-addons": "dev-master"
-		},
     "license": "Apache-2.0",
     "authors": [
         {
