@@ -1,0 +1,28 @@
+{
+    "name": "topthink/think-addons",
+    "description": "addons package for thinkphp5",
+    "type": "think-extend",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "unknown",
+            "email": "1140765686@qq.com"
+        }
+    ],
+		"autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        },
+        "files": [
+            "src/common.php"
+        ]
+    },
+		"extra": {
+        "think-config": {
+            "addons": "src/config.php"
+        }
+    }
+}
