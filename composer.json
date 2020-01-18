@@ -1,5 +1,5 @@
 {
-    "name": "godcms/think-addons",
+    "name": "extend/think-addons",
     "description": "addons package for thinkphp5",
     "type": "think-extend",
 		"minimum-stability": "dev",
